@@ -1,6 +1,6 @@
 # Bryan Nguyen
 # 1855265
-
+#Used Lab 12.6 as reference.
 def get_age():
     age = int(input())
     if 18 <= age <= 75:
