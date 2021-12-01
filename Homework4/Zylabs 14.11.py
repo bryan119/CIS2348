@@ -1,6 +1,6 @@
 # Bryan Nguyen
 # 1855265
-
+#Used Lab 14.10 as reference
 def selection_sort_descend_trace(integer):
     for i in range(len(integer) - 1):
         list = i
